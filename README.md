@@ -1,5 +1,9 @@
 ## Hello, I'm Mahsa Ehsanifard👋
-Cancer Genetics Researcher | Bioinformatician | Systems Biology | Cancer Genomics
+
+![](https://img.shields.io/badge/Cancer%20Genetics%20Researcher-white?style=for-the-badge)
+![](https://img.shields.io/badge/Bioinformatician-white?style=for-the-badge)
+![](https://img.shields.io/badge/Systems%20Biology-white?style=for-the-badge)
+![](https://img.shields.io/badge/Cancer%20Genomics-white?style=for-the-badge)
 
 🚀I work as a research mentor and teacher in R programming 💻, Computational systems biology 📊, and cancer genetics🧬
 
@@ -21,6 +25,13 @@ Cancer Genetics Researcher | Bioinformatician | Systems Biology | Cancer Genomic
 ![](https://img.shields.io/badge/NCBI-green)
 ![](https://img.shields.io/badge/RNA_RNA%20interactions-%23008080)
 
+- Cancer genomics and transcriptomics
+- Differential expression analysis
+- ceRNA regulatory networks
+- Survival and correlation analysis
+- CNV/ SNP mutational data analysis
+- Data visualization
+- Pathways and functional enrichment 
 
 ### 📫 My accounts
 ![](https://img.shields.io/badge/linkedin-%23004788?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmahsa-Ehsanifard-49228b217)
